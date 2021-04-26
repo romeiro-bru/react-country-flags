@@ -12,4 +12,4 @@
 * Css :nail_care:
 
 #
-Inspired by: “Fruit Facts” of [@graceaveris](https://github.com/graceaveris)
+Inspired by: [“Fruit Facts”](https://github.com/graceaveris/React.js_fruit_fact_revealer) of [@graceaveris](https://github.com/graceaveris)
