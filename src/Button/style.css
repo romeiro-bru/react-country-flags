@@ -1,0 +1,16 @@
+button {
+  padding: 0.9rem 2.5rem;
+  margin: 1rem;
+  border-radius: 6px;
+  border: 2px solid #f1c95c;
+  font-weight: bold;
+  font-size: 1rem;
+  color: rgb(235, 224, 224);
+  background-color: transparent;
+  outline: none;
+}
+
+.flags img {
+  width: 4em;
+  margin: 1rem;
+}

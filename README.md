@@ -1,2 +1,2 @@
-# react-country-flags
+# react-rgb-generator
 Created with CodeSandbox
