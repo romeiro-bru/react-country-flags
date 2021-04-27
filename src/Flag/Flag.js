@@ -1,14 +1,16 @@
 import React from "react";
-import china from "../Button/china.svg";
-import india from "../Button/india.svg";
-import aust from "../Button/australia.svg";
-import brazil from "../Button/brazil.svg";
-import germany from "../Button/germany.svg";
-import france from "../Button/france.svg";
+import "./style.css";
 
-export function Flag(props) {
+import china from "./china.svg";
+import india from "./india.svg";
+import aust from "./australia.svg";
+import brazil from "./brazil.svg";
+import germany from "./germany.svg";
+import france from "./france.svg";
+
+export function Flag({ hide }) {
   return (
-    <section hidden={props.hide} className="flags">
+    <section hidden={hide} className="flags">
       <img src={china} alt="china" />
       <img src={india} alt="india" />
       <img src={aust} alt="australia" />
