@@ -1,6 +1,6 @@
 import "./styles.css";
-import { Header } from "./Header/Header";
-import { Button } from "./Button/Button";
+import { Header } from "./Components/Header/Header";
+import { Button } from "./Components/Button/Button";
 
 export default function App() {
   return (
